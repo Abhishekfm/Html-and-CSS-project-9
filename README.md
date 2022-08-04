@@ -8,8 +8,7 @@
 
 ![Project 9 Image](nine.png)
 
-In this project I lerned more depth of flexbox and button inside input by using translateX and diffrence between justify content and align self the diffrence is justify-content work horizontally
-and align-self work on vertically.
+In this project, I learned more depth of flexbox and button inside input by using translateX, and the difference between justify-content and align-self and the difference is that justify-content works horizontally and align-self work vertically.
 
 #
 

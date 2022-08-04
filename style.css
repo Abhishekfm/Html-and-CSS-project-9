@@ -520,3 +520,56 @@ li{
     /* height: 20vh; */
   }
  }
+
+
+
+@media screen and (max-width:419px) {
+  body{
+    /* background-color: #000000; */
+  }
+  .cards div:nth-child(2){
+    display: none;
+  }
+  .card ,.card-active{
+    margin: 0px 5px;
+    padding: 0px;
+    width: 80px;
+  }
+  .blog-card{
+    margin-right: 20px;
+    padding-right: 0px;
+    justify-content: flex-start;
+    /* width: 50px; */
+  }
+  .blog-content{
+    padding: 0px;
+  }
+  .blog-cards{
+    justify-content: flex-start;
+  }
+  .blog-content{
+    margin: 0px;
+    padding: 0px;
+  }
+  .blog-cards .blog-card:first-child{
+    /* width: 20%; */
+    margin-left: 20px;
+  }
+  .blog-author{
+    left: 20px;
+  }
+  .blog-card-bottom-image{
+    left: 0px;
+  }
+  .download-section{
+    flex-direction: column;
+    margin-left: 20px;
+  }
+  .footer-section{
+    margin: 0px;
+    padding: 10px 10px;
+  }
+  .list-items{
+    margin: 5px;
+  }
+}
